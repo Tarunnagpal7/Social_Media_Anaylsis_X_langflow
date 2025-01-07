@@ -336,7 +336,7 @@ const formatMessage = (text) => {
       <div className="px-6 py-4 bg-gradient-to-r from-gray-900 to-gray-800 text-white shadow-lg">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-2xl font-bold font-['Inter'] tracking-tight">Social Media Data Analysis</h1>
+            <h1 className="text-2xl font-bold font-['Inter'] tracking-tight">SocialSphere</h1>
             <p className="text-gray-400 text-sm font-['Inter']">Powered by Langflow • Created by whiteSnake</p>
           </div>
           <div className="p-2 bg-gray-800 rounded-xl">
