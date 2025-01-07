@@ -1,4 +1,11 @@
-# ChatBox Component
+# Socail Media Anaylsis Using Langflow
+
+## Langflow Workflow
+![image](https://github.com/user-attachments/assets/1fc9e756-b549-45d2-a5b7-a0213c702e5d)
+
+## Backend Repo
+URL : https://github.com/Tarunnagpal7/LangflowBackend
+
 
 ## Overview
 
