@@ -185,7 +185,7 @@ export default function Dashboard() {
       <footer className="bg-gray-900 text-white py-10 mt-10">
       <div className="container mx-auto px-4">
         <h2 className="text-center text-2xl font-bold mb-6">Connect with Us</h2>
-        <div className="flex flex-col sm:flex-row justify-center gap-6">
+        <div className="flex flex-col sm:flex-row justify-center gap-10">
           {/* Profile Card 1 */}
           <div className="bg-gray-800 hover:shadow-lg transition-transform transform hover:-translate-y-2 rounded-lg p-6 text-center">
             <img
@@ -220,6 +220,46 @@ export default function Dashboard() {
             <div className="flex justify-center gap-4 mt-4">
               <a
                 href="https://www.linkedin.com/in/gaurav-daware-68476826b/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-400 hover:text-white transition"
+              >
+                <i className="fab fa-linkedin text-2xl"></i>
+              </a>
+            </div>
+          </div>
+          {/* Profile Card 3 */}
+          <div className="bg-gray-800 hover:shadow-lg transition-transform transform hover:-translate-y-2 rounded-lg p-6 text-center">
+            <img
+              src="./n.png"
+              alt="Profile 2"
+              className="w-40 h-40 mx-auto rounded border-4 border-gray-600"
+            />
+            <h3 className="mt-4 text-xl font-semibold">Nidhish Tomar</h3>
+            <p className="text-gray-400">Frontend Developer</p>
+            <div className="flex justify-center gap-4 mt-4">
+              <a
+                href="https://www.linkedin.com/in/nidhish-tomar/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-400 hover:text-white transition"
+              >
+                <i className="fab fa-linkedin text-2xl"></i>
+              </a>
+            </div>
+          </div>
+          {/* Profile Card 4 */}
+          <div className="bg-gray-800 hover:shadow-lg transition-transform transform hover:-translate-y-2 rounded-lg p-6 text-center">
+            <img
+              src="./y.png"
+              alt="Profile 2"
+              className="w-40 h-40 mx-auto rounded border-4 border-gray-600"
+            />
+            <h3 className="mt-4 text-xl font-semibold">Yashraj Solanki</h3>
+            <p className="text-gray-400">Frontend Developer</p>
+            <div className="flex justify-center gap-4 mt-4">
+              <a
+                href="https://www.linkedin.com/in/yashraj-solanki-7b7363256/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition"
