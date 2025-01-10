@@ -4,7 +4,11 @@
 ![image](https://github.com/user-attachments/assets/1fc9e756-b549-45d2-a5b7-a0213c702e5d)
 
 ## Backend Repo
-URL : https://github.com/Tarunnagpal7/LangflowBackend
+  https://github.com/Tarunnagpal7/LangflowBackend
+## FindCoder Link
+  https://www.findcoder.io/projects/socialsphere/677d689bef3df475011ee9d9
+## Youtube Link
+  https://youtu.be/P7yxR-foWO4?feature=shared
 
 
 ## Overview
